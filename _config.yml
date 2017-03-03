@@ -6,11 +6,11 @@ title: Li Biao's blog
 subtitle:
 description:
 author: Li Biao
-language: en
+language: zh-CN
 timezone:
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://libiaome.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
